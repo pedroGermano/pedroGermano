@@ -4,6 +4,39 @@
 ## Hi 👋, 
 I'm Pedro Germano, I'm a Full Stack developer  who is passionate about JavaScript and Linux.
 
+
+## Skills
+
+<img src="https://img.shields.io/badge/HTML5-ff7851" />
+<img src="https://img.shields.io/badge/CSS3-44b2fb" /> 
+<img src="https://img.shields.io/badge/JavaScript -ffc742" />
+<img src="https://img.shields.io/badge/Bootstrap -563d7c" />
+<img src="https://img.shields.io/badge/Tailwind CSS -1cc4b4" />
+<img src="https://img.shields.io/badge/React -30a8fe" />
+<img src="https://img.shields.io/badge/Vue -41b883" />
+<img src="https://img.shields.io/badge/SCSS -FF0000" />  
+
+
+
+</br>
+<details>
+	<summary>Tools</summary>
+	<ul>
+    	<li>Visual Studio Code</li>
+      <li>Gimp</li>
+      
+    </ul>
+
+</details>
+
+<details>
+	<summary>Operating Systems</summary>
+	<ul>
+		    <li>Windows</li>
+        <li>Ubuntu Linux</li>
+	</ul>
+</details>
+
 -  ⚡ Technologies: React, Node, Adonis, React-Native
 - 🔭 Front-end student focusing on JavaScript
 - 💬 Ask me about: tech, nfl, movie.
