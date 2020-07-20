@@ -11,7 +11,7 @@ I'm Pedro Germano, I'm a Full Stack developer  who is passionate about JavaScrip
 <img src="https://img.shields.io/badge/Vue -41b883" />
 <img src="https://img.shields.io/badge/SCSS -FF0000" />  
 <img src="https://img.shields.io/badge/Tailwind CSS -1cc4b4" />
-<img src="https://img.shields.io/badge/Illustrator -ff7b19" /> <img src="https://img.shields.io/badge/React -30a8fe" />
+ <img src="https://img.shields.io/badge/React -30a8fe" />
 
 
 
