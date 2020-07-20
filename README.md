@@ -21,9 +21,8 @@ I'm Pedro Germano, I'm a Full Stack developer  who is passionate about JavaScrip
 <details>
 	<summary>Tools</summary>
 	<ul>
-    	<li>Visual Studio Code</li>
-      <li>Gimp</li>
-      
+	  <li>Visual Studio Code</li>
+	  <li>Gimp</li>
     </ul>
 
 </details>
@@ -31,8 +30,8 @@ I'm Pedro Germano, I'm a Full Stack developer  who is passionate about JavaScrip
 <details>
 	<summary>Operating Systems</summary>
 	<ul>
-		    <li>Windows</li>
-        <li>Ubuntu Linux</li>
+         <li>Windows</li>
+         <li>Ubuntu Linux</li>
 	</ul>
 </details>
 
