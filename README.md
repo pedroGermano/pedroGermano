@@ -35,6 +35,6 @@ I'm a 🖥 Front End Developer  who is passionate about JavaScript and Linux.
 	</ul>
 </details>
 
--  ⚡ Technologies: React, Node, Adonis, React-Native
+-  ⚡ Technologies: React, Node, Typescript, React-Native
 - 🔭 Front-end student focusing on JavaScript
 - 💬 Ask me about: tech, nfl, movie.
