@@ -14,9 +14,9 @@ I'm a 🖥 Front End Developer  who is passionate about JavaScript and Linux.
  <img src="https://img.shields.io/badge/React -30a8fe" />
 
 
-<p>&nbsp;<img align="justify"src="https://githubreadmestats.vercel.app/apiusername=pedroGermano&show_icons=true&locale=en&=true&theme=dark%22%20alt=%22pedroGermano%22" /></p>
+<p>&nbsp;<img align="justify"src="https://github-readme-stats.vercel.app/api?username=pedroGermano&show_icons=true&locale=en&=true&theme=dark%22%20alt=%22pedroGermano%22" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WelissonLuca&layout=compact&how_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroGermano&layout=compact&how_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
