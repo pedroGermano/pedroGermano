@@ -1,5 +1,4 @@
-![image](https://user-images.githubusercontent.com/7785179/127526649-dd0f2eca-1391-4808-93d7-0733e38621e5.png)
-
+![image](https://user-images.githubusercontent.com/7785179/127527361-a4cc3a0a-52e2-4c72-9b0c-2a1a10a52a62.png)
 
 
 # Pedro Germano
