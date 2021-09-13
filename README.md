@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/7785179/127527361-a4cc3a0a-52e2-4c72-9b0c-2a1a10a52a62.png)
+
+
 <h1 align="center">Hi, I'm Pedro Germano 🔭</h1>
 <h3 align="center">A passionate Front-end developer and Linux student from Brazil</h3>
 
