@@ -22,6 +22,7 @@
   <img src="https://styles.redditmedia.com/t5_3h7yi/styles/communityIcon_9ds9kugm99g51.png?width=256&s=3ee4c30d4736dc4024319d53c20c6dacb5d11bb0" alt="nextjs" width="40" height="40"/> 
 </p>
   <div>
+    
   ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=pedroGermano&show_icons=true&theme=dracula**)
   
   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/pedroGermano/github-readme-stats)
