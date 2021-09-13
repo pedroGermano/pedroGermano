@@ -6,15 +6,6 @@
 - 📫 How to reach me **pedrogermano232@gmail.com**
 
 <div align="center">
-<h3>Connect with me:</h3>
-<p>
-<a href="https://www.linkedin.com/in/pedrogermano232/" target="_blank">
-  <img align="center" src="https://i.pinimg.com/originals/58/99/22/589922e187ab719d0afa9c4c2993019b.png" alt="rodrigo-victor-5a7707174" height="40" width="40"   />
-</a>
-<a href="https://instagram.com/pedroGermano232" target="_blank" >
-  <img align="center" src="https://image.flaticon.com/icons/png/512/174/174855.png" alt="pedroGermano232" height="40" width="40"/>
-</a>
-</p>
 
 <a href="https://github.com/pedroGermano232">
   <h3></br>Languages and Tools:</h3>
@@ -31,9 +22,22 @@
   <img src="https://styles.redditmedia.com/t5_3h7yi/styles/communityIcon_9ds9kugm99g51.png?width=256&s=3ee4c30d4736dc4024319d53c20c6dacb5d11bb0" alt="nextjs" width="40" height="40"/> 
 </p>
   
-  ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=pedroGermano)
+  ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=pedroGermano&show_icons=true&theme=dracula**)
+  
+  <h3>Connect with me:</h3>
+<p>
+<a href="https://www.linkedin.com/in/pedrogermano232/" target="_blank">
+  <img align="center" src="https://i.pinimg.com/originals/58/99/22/589922e187ab719d0afa9c4c2993019b.png" alt="rodrigo-victor-5a7707174" height="40" width="40"   />
+</a>
+<a href="https://instagram.com/pedroGermano232" target="_blank" >
+  <img align="center" src="https://image.flaticon.com/icons/png/512/174/174855.png" alt="pedroGermano232" height="40" width="40"/>
+</a>
+</p>
+
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USERNAME) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/USERNAME/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/USERNAME)
 <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedroGermano&layout=compact&langs_count=8&theme=dracula"/></a>
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedroGermano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+</div>
