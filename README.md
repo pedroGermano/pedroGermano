@@ -19,16 +19,17 @@
 <a href="https://github.com/pedroGermano232">
   <h3></br>Languages and Tools:</h3>
 <p> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"  height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="50" height="40"/>  
-  <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png" alt="nodejs" width="40" height="40"/>  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="40" height="40"/> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" width="40" height="40"/> 
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="css3" width="40" height="40"/> 
+  <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="css3" width="40" height="40"/> 
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="git" width="40" height="40"/> 
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" width="40"  height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/600px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/>  
-   <img src="https://natqe.gallerycdn.vsassets.io/extensions/natqe/scss-generator/1.2.9/1550339585248/Microsoft.VisualStudio.Services.Icons.Default" alt="typescript" width="40" height="40"/>  
-  <img src="https://styles.redditmedia.com/t5_3h7yi/styles/communityIcon_9ds9kugm99g51.png?width=256&s=3ee4c30d4736dc4024319d53c20c6dacb5d11bb0" alt="nextjs" width="40" height="40"/> 
-</p> 
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" width="50" height="40"/>  
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react native" width="50" height="40"/>  
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" width="50" />
+</p>
 <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedroGermano&layout=compact&langs_count=8&theme=dracula"/></a>
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedroGermano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
