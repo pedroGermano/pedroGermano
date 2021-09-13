@@ -24,7 +24,8 @@
   <div>
     
   ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=pedroGermano&show_icons=true&theme=dracula**)
-  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroGermanno&show_icons=true&theme=dracula)
+
   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/pedroGermano/github-readme-stats)
   </div>
   
