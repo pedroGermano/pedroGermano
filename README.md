@@ -26,6 +26,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="50" height="40"/>  
   <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png" alt="nodejs" width="40" height="40"/>  
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/600px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/>  
+   <img src="  https://www.google.com/url?sa=i&url=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3Dnatqe.scss-generator&psig=AOvVaw1K5JxK5t-5MW804JlWKWoy&ust=1631581713472000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjjvdfh-vICFQAAAAAdAAAAABAD" alt="typescript" width="40" height="40"/>  
   <img src="https://styles.redditmedia.com/t5_3h7yi/styles/communityIcon_9ds9kugm99g51.png?width=256&s=3ee4c30d4736dc4024319d53c20c6dacb5d11bb0" alt="nextjs" width="40" height="40"/> 
 </p> 
 <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedroGermano&layout=compact&langs_count=8&theme=dracula"/></a>
