@@ -30,7 +30,7 @@
   <img src="https://styles.redditmedia.com/t5_3h7yi/styles/communityIcon_9ds9kugm99g51.png?width=256&s=3ee4c30d4736dc4024319d53c20c6dacb5d11bb0" alt="nextjs" width="40" height="40"/> 
 </p>
  
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedroGermano&layout=compact&langs_count=8&theme=dracula"/></a>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pedroGermano&show_icons=true&locale=en&=true&theme=dark%22%20alt=%22pedroGermano%22&layout=compact&langs_count=8&theme=dracula"/></a>
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RodrigoRVSN&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedroGermano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
