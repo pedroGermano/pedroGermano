@@ -24,6 +24,9 @@
   
   ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=pedroGermano&show_icons=true&theme=dracula**)
   
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/pedroGermano/github-readme-stats)
+
+  
   <h3>Connect with me:</h3>
 <p>
 
@@ -31,7 +34,5 @@
 </p>
 
 
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedroGermano&layout=compact&langs_count=8&theme=dracula"/></a>
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedroGermano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
