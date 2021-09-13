@@ -8,7 +8,7 @@
 <div align="center">
 <h3>Connect with me:</h3>
 <p>
-<a href="https://linkedin.com/in/rodrigo-victor-5a7707174" target="_blank">
+<a href="https://www.linkedin.com/in/pedrogermano232/" target="_blank">
   <img align="center" src="https://i.pinimg.com/originals/58/99/22/589922e187ab719d0afa9c4c2993019b.png" alt="rodrigo-victor-5a7707174" height="40" width="40"   />
 </a>
 <a href="https://instagram.com/pedroGermano232" target="_blank" >
@@ -33,4 +33,8 @@
 <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedroGermano&layout=compact&langs_count=8&theme=dracula"/></a>
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedroGermano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/pedroGermano/github-readme-stats)
+
 </div>
