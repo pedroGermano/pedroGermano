@@ -1,41 +1,29 @@
-![image](https://user-images.githubusercontent.com/7785179/127527361-a4cc3a0a-52e2-4c72-9b0c-2a1a10a52a62.png)
+# Hello World 🔭
+
+<img align="right" src=".github/image.svg" width="300"/>
+
+Me chamo Pedro Germano, tenho 34 anos, moro em Fortaleza-Ce, estudante de react na [Rocketseat](https://app.rocketseat.com.br/me/pedro-germano-1567328756) e de fullstack no [JStack](https://jstack.com.br/)
 
 
-<h1 align="center">Hi, I'm Pedro Germano 🔭</h1>
-<h3 align="center">A passionate Front-end developer and Linux student from Brazil</h3>
+### ✨ Curiosidades
 
-- 🌱 I’m currently learning **Fullstack development**
+- Sou fã de Filmes de terror.
+- Torcedor do Green Bay Packers 💚.
+- Entusiasta linux.
+- Apaixonado por tecnologias web.
 
-- 📫 How to reach me **pedrogermano232@gmail.com**
+## 📋 Skills
 
-<div align="center">
+[![JS](https://img.shields.io/badge/JavaScript-5E5C5C?style=for-the-badge&logo=javascript&logoColor=F7DF1E&style=plastic)]()
+[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&style=plastic)]()
+[![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&style=plastic)]()
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&style=plastic)]()
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&style=plastic)]()
 
-<a href="https://github.com/pedroGermano232">
-  <h3></br>Languages and Tools:</h3>
-<p> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"  
-       height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="50" height="40"/>  
-  <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png" alt="nodejs" width="40" height="40"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/600px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/>  
-</p>
-  <div>
-    
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroGermano&show_icons=true&theme=dracula)
+## 📫 Contatos
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Twitter Badge](https://img.shields.io/badge/@PedroGermano6-2D425E?style=flat&labelColor=2D425E&logo=twitter&logoColor=white&link=https://twitter.com/pedroGermano)](https://twitter.com/PedroGermano6)
+[![Instagram Badge](https://img.shields.io/badge/@pedrogermano232-2D425E?style=flat&labelColor=2D425E&logo=instagram&logoColor=white&link=https://instagram.com/pedroGermano)](https://instagram.com/pedrogermano232)
+[![Linkedin Badge](https://img.shields.io/badge/Pedro-2D425E?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-germano/)](https://www.linkedin.com/in/pedrogermano232/)
 
-  </div>
-  
-  <h3>Connect with me:</h3>
-<p>
-
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/PedroGermano6)   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pedrogermano232/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/pedrogermano232/) 
-</p>
-
-
-
-
+![Pedro Germano github stats](https://github-readme-stats.vercel.app/api?username=pedroGermano&show_icons=true&theme=dracula)
