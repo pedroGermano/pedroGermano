@@ -26,4 +26,4 @@ Me chamo Pedro Germano, tenho 34 anos, moro em Fortaleza-Ce, estudante de react 
 [![Instagram Badge](https://img.shields.io/badge/@pedrogermano232-2D425E?style=flat&labelColor=2D425E&logo=instagram&logoColor=white&link=https://instagram.com/pedroGermano)](https://instagram.com/pedrogermano232)
 [![Linkedin Badge](https://img.shields.io/badge/Pedro-2D425E?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-germano/)](https://www.linkedin.com/in/pedrogermano232/)
 
-![Pedro Germano github stats](https://github-readme-stats.vercel.app/api?username=pedroGermano&show_icons=true&theme=dracula)
+![Pedro Germano github stats](https://github-readme-stats.vercel.app/api?username=pedroGermano&show_icons=true&bg_color=00000000)
