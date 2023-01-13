@@ -28,3 +28,11 @@ Me chamo Pedro Germano, tenho 34 anos, moro em Fortaleza-Ce, estudante de react 
 
 
 
+
+
+
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrogermano&show_icons=true&locale=en" alt="pedrogermano" /></p>
+
